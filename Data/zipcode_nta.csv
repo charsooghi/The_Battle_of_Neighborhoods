@@ -1,0 +1,217 @@
+﻿NTACode,NTAName,ZIPCode
+MN13,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,10001
+MN27,Chinatown                                                                  ,10002
+MN22,East Village                                                               ,10003
+MN25,Battery Park City-Lower Manhattan                                          ,10004
+MN25,Battery Park City-Lower Manhattan                                          ,10005
+MN25,Battery Park City-Lower Manhattan                                          ,10006
+MN24,SoHo-TriBeCa-Civic Center-Little Italy                                     ,10007
+MN28,Lower East Side                                                            ,10009
+MN21,Gramercy                                                                   ,10010
+MN13,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,10011
+MN24,SoHo-TriBeCa-Civic Center-Little Italy                                     ,10012
+MN24,SoHo-TriBeCa-Civic Center-Little Italy                                     ,10013
+MN23,West Village                                                               ,10014
+MN20,Murray Hill-Kips Bay                                                       ,10016
+MN19,Turtle Bay-East Midtown,10017
+MN17,Midtown-Midtown South,10018
+MN15,Clinton,10019
+MN17,Midtown-Midtown South,10020
+MN31,Lenox Hill-Roosevelt Island                                                ,10021
+MN19,Turtle Bay-East Midtown,10022
+MN14,Lincoln Square                                                             ,10023
+MN12,Upper West Side                                                            ,10024
+MN09,Morningside Heights                                                        ,10025
+MN11,Central Harlem South                                                       ,10026
+MN11,Central Harlem South                                                       ,10027
+MN40,Upper East Side-Carnegie Hill                                              ,10028
+MN33,East Harlem South                                                          ,10029
+MN03,Central Harlem North-Polo Grounds                                          ,10030
+MN06,Manhattanville                                                             ,10031
+MN36,Washington Heights South                                                   ,10032
+MN35,Washington Heights North                                                   ,10033
+MN01,Marble Hill-Inwood                                                         ,10034
+MN34,East Harlem North                                                          ,10035
+MN15,Clinton                                                                    ,10036
+MN03,Central Harlem North-Polo Grounds                                          ,10037
+MN27,Chinatown                                                                  ,10038
+MN03,Central Harlem North-Polo Grounds                                          ,10039
+MN35,Washington Heights North                                                   ,10040
+MN25,Battery Park City-Lower Manhattan,10043
+MN31,Lenox Hill-Roosevelt Island                                                ,10044
+MN25,Battery Park City-Lower Manhattan,10045
+MN31,Lenox Hill-Roosevelt Island                                                ,10065
+MN14,Lincoln Square,10069
+MN31,Lenox Hill-Roosevelt Island                                                ,10075
+MN25,Battery Park City-Lower Manhattan,10080
+MN17,Midtown-Midtown South,10104
+MN17,Midtown-Midtown South,10105
+MN17,Midtown-Midtown South,10106
+MN17,Midtown-Midtown South,10107
+MN17,Midtown-Midtown South,10111
+MN17,Midtown-Midtown South,10112
+MN09,Morningside Heights,10115
+MN17,Midtown-Midtown South,10119
+MN17,Midtown-Midtown South,10120
+MN17,Midtown-Midtown South,10123
+MN40,Upper East Side-Carnegie Hill                                              ,10128
+MN19,Turtle Bay-East Midtown,10154
+MN19,Turtle Bay-East Midtown,10155
+MN20,Murray Hill-Kips Bay,10165
+MN19,Turtle Bay-East Midtown,10167
+MN20,Murray Hill-Kips Bay,10168
+MN19,Turtle Bay-East Midtown,10170
+MN17,Midtown-Midtown South,10173
+MN19,Turtle Bay-East Midtown,10174
+MN17,Midtown-Midtown South,10176
+MN13,Hudson Yards-Chelsea-Flatiron-Union Square,10199
+MN25,Battery Park City-Lower Manhattan,10271
+MN24,SoHo-TriBeCa-Civic Center-Little Italy,10278
+MN25,Battery Park City-Lower Manhattan                                          ,10280
+MN25,Battery Park City-Lower Manhattan                                          ,10282
+SI22,West New Brighton-New Brighton-St. George                                  ,10301
+SI28,Port Richmond                                                              ,10302
+SI28,Port Richmond                                                              ,10303
+SI14,Grasmere-Arrochar-Ft. Wadsworth                                            ,10304
+SI37,Stapleton-Rosebank                                                         ,10305
+SI45,New Dorp-Midland Beach                                                     ,10306
+SI11,Charleston-Richmond Valley-Tottenville                                     ,10307
+SI54,Great Kills                                                                ,10308
+SI01,Annadale-Huguenot-Prince's Bay-Eltingville                                 ,10309
+SI35,New Brighton-Silver Lake                                                   ,10310
+SI05,New Springville-Bloomfield-Travis                                          ,10311
+SI48,Arden Heights                                                              ,10312
+SI05,New Springville-Bloomfield-Travis                                          ,10314
+BX34,Melrose South-Mott Haven North                                             ,10451
+BX26,Highbridge                                                                 ,10452
+BX36,University Heights-Morris Heights                                          ,10453
+BX39,Mott Haven-Port Morris                                                     ,10454
+BX34,Melrose South-Mott Haven North                                             ,10455
+BX34,Melrose South-Mott Haven North                                             ,10456
+BX01,Claremont-Bathgate                                                         ,10457
+BX05,Bedford Park-Fordham North                                                 ,10458
+BX27,Hunts Point                                                                ,10459
+BX17,East Tremont                                                               ,10460
+BX52,Schuylerville-Throgs Neck-Edgewater Park                                   ,10461
+BX37,Van Nest-Morris Park-Westchester Square                                    ,10462
+BX29,Spuyten Duyvil-Kingsbridge                                                 ,10463
+BX10,Pelham Bay-Country Club-City Island                                        ,10464
+BX52,Schuylerville-Throgs Neck-Edgewater Park                                   ,10465
+BX44,Williamsbridge-Olinville                                                   ,10466
+BX43,Norwood                                                                    ,10467
+BX40,Fordham South                                                              ,10468
+BX31,Allerton-Pelham Gardens                                                    ,10469
+BX62,Woodlawn-Wakefield                                                         ,10470
+BX22,North Riverdale-Fieldston-Riverdale                                        ,10471
+BX59,Westchester-Unionport                                                      ,10472
+BX09,Soundview-Castle Hill-Clason Point-Harding Park                            ,10473
+BX27,Hunts Point                                                                ,10474
+BX13,Co-op City                                                                 ,10475
+QN44,Glen Oaks-Floral Park-New Hyde Park                                        ,11001
+QN44,Glen Oaks-Floral Park-New Hyde Park                                        ,11004
+QN44,Glen Oaks-Floral Park-New Hyde Park                                        ,11005
+QN31,Hunters Point-Sunnyside-West Maspeth                                       ,11101
+QN71,Old Astoria                                                                ,11102
+QN70,Astoria                                                                    ,11103
+QN31,Hunters Point-Sunnyside-West Maspeth                                       ,11104
+QN72,Steinway                                                                   ,11105
+QN68,Queensbridge-Ravenswood-Long Island City                                   ,11106
+QN31,Hunters Point-Sunnyside-West Maspeth                                       ,11109
+BK09,Brooklyn Heights-Cobble Hill                                               ,11201
+BK60,Prospect Lefferts Gardens-Wingate                                          ,11203
+BK88,Borough Park                                                               ,11204
+BK68,Fort Greene                                                                ,11205
+BK72,Williamsburg                                                               ,11206
+BK85,East New York (Pennsylvania Ave)                                           ,11207
+BK82,East New York                                                              ,11208
+BK31,Bay Ridge                                                                  ,11209
+BK58,Flatlands                                                                  ,11210
+BK72,Williamsburg                                                               ,11211
+BK81,Brownsville                                                                ,11212
+BK61,Crown Heights North                                                        ,11213
+BK27,Bath Beach                                                                 ,11214
+BK37,Park Slope-Gowanus                                                         ,11215
+BK69,Clinton Hill                                                               ,11216
+BK37,Park Slope-Gowanus                                                         ,11217
+BK40,Windsor Terrace                                                            ,11218
+BK88,Borough Park                                                               ,11219
+BK32,Sunset Park West                                                           ,11220
+BK35,Stuyvesant Heights                                                         ,11221
+BK76,Greenpoint                                                                 ,11222
+BK26,Gravesend                                                                  ,11223
+BK23,West Brighton                                                              ,11224
+BK60,Prospect Lefferts Gardens-Wingate                                          ,11225
+BK60,Prospect Lefferts Gardens-Wingate                                          ,11226
+BK28,Bensonhurst West                                                           ,11228
+BK25,Homecrest                                                                  ,11229
+BK42,Flatbush                                                                   ,11230
+BK33,Carroll Gardens-Columbia Street-Red Hook                                   ,11231
+BK32,Sunset Park West                                                           ,11232
+BK35,Stuyvesant Heights                                                         ,11233
+BK45,Georgetown-Marine Park-Bergen Beach-Mill Basin                             ,11234
+BK17,Sheepshead Bay-Gerritsen Beach-Manhattan Beach                             ,11235
+BK50,Canarsie                                                                   ,11236
+BK77,Bushwick North                                                             ,11237
+BK64,Prospect Heights                                                           ,11238
+BK93,Starrett City                                                              ,11239
+BK68,Fort Greene,11243
+BK73,North Side-South Side,11249
+BK31,Bay Ridge,11252
+QN51,Murray Hill                                                                ,11354
+QN22,Flushing                                                                   ,11355
+QN23,College Point                                                              ,11356
+QN49,Whitestone                                                                 ,11357
+QN48,Auburndale                                                                 ,11358
+QN47,Ft. Totten-Bay Terrace-Clearview                                           ,11359
+QN47,Ft. Totten-Bay Terrace-Clearview                                           ,11360
+QN46,Bayside-Bayside Hills                                                      ,11361
+QN45,Douglas Manor-Douglaston-Little Neck                                       ,11362
+QN45,Douglas Manor-Douglaston-Little Neck                                       ,11363
+QN42,Oakland Gardens                                                            ,11364
+QN62,Queensboro Hill                                                            ,11365
+QN37,Kew Gardens Hills                                                          ,11366
+QN37,Kew Gardens Hills                                                          ,11367
+QN25,Corona                                                                     ,11368
+QN27,East Elmhurst                                                              ,11369
+QN72,Steinway                                                                   ,11370
+QN98,Airport,11371
+QN28,Jackson Heights                                                            ,11372
+QN29,Elmhurst                                                                   ,11373
+QN18,Rego Park                                                                  ,11374
+QN17,Forest Hills                                                               ,11375
+QN50,Elmhurst-Maspeth                                                           ,11377
+QN30,Maspeth                                                                    ,11378
+QN21,Middle Village                                                             ,11379
+QN20,Ridgewood                                                                  ,11381
+QN20,Ridgewood                                                                  ,11385
+QN61,Jamaica,11405
+QN33,Cambria Heights                                                            ,11411
+QN08,St. Albans                                                                 ,11412
+QN08,St. Albans                                                                 ,11413
+QN57,Lindenwood-Howard Beach                                                    ,11414
+QN60,Kew Gardens                                                                ,11415
+QN53,Woodhaven                                                                  ,11416
+QN56,Ozone Park                                                                 ,11417
+QN54,Richmond Hill                                                              ,11418
+QN54,Richmond Hill                                                              ,11419
+QN55,South Ozone Park                                                           ,11420
+QN53,Woodhaven                                                                  ,11421
+QN05,Rosedale                                                                   ,11422
+QN06,Jamaica Estates-Holliswood                                                 ,11423
+QN43,Bellerose                                                                  ,11426
+QN43,Bellerose                                                                  ,11427
+QN34,Queens Village                                                             ,11428
+QN34,Queens Village                                                             ,11429
+QN98,Airport,11430
+QN35,Briarwood-Jamaica Hills                                                    ,11432
+QN01,South Jamaica                                                              ,11433
+QN76,Baisley Park                                                               ,11434
+QN61,Jamaica                                                                    ,11435
+QN76,Baisley Park                                                               ,11436
+QN38,Pomonok-Flushing Heights-Hillcrest,11439
+QN61,Jamaica                                                                    ,11451
+QN15,Far Rockaway-Bayswater                                                     ,11691
+QN12,Hammels-Arverne-Edgemere                                                   ,11692
+QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel                      ,11693
+QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel                      ,11694
+QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel                      ,11697
